@@ -1,0 +1,35 @@
+.frame {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inner-frame {
+    width: 50%;
+}
+.i-left, .i-right {
+    margin: 8px;
+}
+.i-left i {
+    color: yellowgreen;
+}
+.i-right p {
+    font-weight: 700;
+}
+.recipe {
+    color: yellowgreen;
+}
+.falafel-headline {
+    font-size: 60px;
+}
+.small-text {
+    margin-top: -10px ;
+    margin-bottom: -19px ;
+}
+.ing i {
+    color: yellowgreen;
+}
+.banner {
+    margin-top: 20px;
+    height: 260px;
+}
